@@ -1,0 +1,9 @@
+.submit {
+ display: block;
+ background: var(--green);
+ padding: 12px;
+ border-radius: 8px;
+ color: var(--white);
+ margin: 24px auto 0;
+ text-align: center;
+}
